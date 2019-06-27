@@ -2,9 +2,11 @@
 #title {
     color: rgb(0, 0, 0);
     font-family: 'JAGUAR', Arial, sans-serif;
-    src: url('/fonts/JAGUAR.ttf');
     font-weight: 100;
     font-size: 4vw;
+    display: inline-block;
+    text-align: center;
+    margin-left: 170px;
 }
 
 
